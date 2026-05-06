@@ -122,7 +122,7 @@ a3f92bc  fix: turned off the PC, the problem solved itself
 </p>
 <br/>
 
-<h2 align="center">📊 <em>Statistics</em></h2>
+<h2 align="center">📊 <em>Statistics </em></h2>
 
 <p align="center">
   <img

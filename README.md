@@ -144,9 +144,3 @@ a3f92bc  fix: turned off the PC, the problem solved itself
   />
 </p>
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jarcos10&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
-    width="100%"
-  />
-</div>

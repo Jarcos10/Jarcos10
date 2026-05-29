@@ -53,7 +53,7 @@ a3f92bc  fix: turned off the PC, the problem solved itself
       </p>
       <br/>
       <p>
-        🏛️ &nbsp; <em><b>Studying at ESCOM - IPN — Expected graduation: Dec 2026</b></em> <br/>
+        🏛️ &nbsp; <em><b>Studying at ESCOM - IPN</b></em> <br/>
         ☁️ &nbsp; <em><b>Google Cloud Computing Foundations Certificate (2025)</b></em><br/>
         🎨 &nbsp; <em><b>Drawing as a way to think visually</b></em><br/>
         🎮 &nbsp; <em><b>Videogames — strategy ones hit different</b></em><br/>
